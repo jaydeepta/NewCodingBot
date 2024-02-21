@@ -1,0 +1,16 @@
+{
+  "name": "git-project",
+  "version": "1.0.0",
+  "description": "This is a demonstration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaydeep Tank",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.18.2",
+    "save": "^2.9.0"
+  }
+}
